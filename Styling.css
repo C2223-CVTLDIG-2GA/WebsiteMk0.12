@@ -4,7 +4,7 @@
     
     /* Style the body */
     body {
-      font-family: Arial;
+      font-family: Tahoma;
       margin: 0;
     }
     
@@ -12,7 +12,7 @@
     .header {
       padding: 60px;
       text-align: center;
-      background: #000;
+      background: #010101;
       color: white;
       text-transform: uppercase
     }
@@ -40,7 +40,7 @@
     
     /* Change color on hover */
     .navbar a:hover {
-      background-color: #ddd;
+      background-color: #010101;
       color: black;
     }
     
@@ -54,7 +54,7 @@
     /* Sidebar/left column */
     .side {
       flex: 30%;
-      background-color: #f1f1f1;
+      background-color: #010101;
       padding: 20px;
     }
     
@@ -76,7 +76,7 @@
     .footer {
       padding: 20px;
       text-align: center;
-      background: #ddd;
+      background: #010101;
     }
     
     /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
